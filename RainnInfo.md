@@ -10,7 +10,9 @@ User: "Rainn";
 
 Bot_Tag: "Rainn#1612";
 
-Prefix: "r!";
+Prefix: "none";
+
+Server: "Bleach | https://discord.gg/MTTUHbGedt
 
 Creator: "Jahh";
 
