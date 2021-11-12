@@ -1,0 +1,30 @@
+If you got an error code while executing or editing a command, you'll 
+find it here. There's an error code for every command. If you can't
+find it here, dm jah#7074 on discord.
+
+ERROR CODES-----
+Lock - 
+     1A: You don't have the permissions to use this command. Contact an
+Admin or higher to fix this issue.
+
+     1B: Unable to execute this command. Please DM jah#7074 on discord.
+
+     1C: Server is in Lockdown Mode. Unable to execute command. Please contact
+admin or dm jah#7074 on discord.
+
+Ban - 
+     2A: You don't have the permissions to use this command. Contact
+Admin or higher to fix this issue.
+
+     2B: Member is already banned. If this member is not banned, contact
+Admin or higher to fix this issue.
+
+     2C: Member is higher than you on the role list. Contact Admin or higher
+to fix this issue.
+
+     2D: Member not banned. Contact jah#7074 on discord to fix
+this issue.
+
+     2E: No mention involved. Command usage: ``ban [member] *[reason]*
+
+Kick - 
