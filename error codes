@@ -28,3 +28,24 @@ this issue.
      2E: No mention involved. Command usage: ``ban [member] *[reason]*
 
 Kick - 
+     3A: You dont have the permissions to use this command. Contact
+Admin of higher to fix this issue.
+
+     3B: Member not found. Please check if that user is still in the
+server or check spelling.
+
+     3C: Member is higher than you on the role list. Contact Admin or higher
+to fix this issue.
+
+     3D: Member not kicked. Contact jah#7074 on discord to fix
+this issue.
+
+Mute - 
+     4A: You dont have the permissions to use this command. Contact
+Admin of higher to fix this issue.
+
+     4B: Member not muted. Contact jah#7074 on discord to fix this
+issue.
+
+     4C: You don't have the permissions to use this command. Contact
+Admin or higher to fix this issue.
